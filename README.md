@@ -1,1 +1,1 @@
-Handwritten digit recognition with Python using MPL
+Handwritten digit recognition with scikit-learn MPLClassfier Python. Deploy website with Flask Framework
